@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Abed El Rahman AlSharif
+- 👀 I’m interested in designing and developing mobile apps 
+- 🌱 I’m currently learning flutter and figma.
+- 💞️ I’m looking to collaborate on my project applications.
+- 📫 How to reach me, simply by email: Abedelrahmanalsharif31@gmail.com
+- 😄 Pronouns: He/his
