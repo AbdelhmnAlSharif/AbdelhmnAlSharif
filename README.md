@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abed El Rahman AlSharif
+- 👋 Hi, I’m Abd El Rhman AlSharif
 - 👀 I’m interested in designing and developing mobile apps 
 - 🌱 I’m currently learning flutter and figma.
 - 💞️ I’m looking to collaborate on my project applications.
